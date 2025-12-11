@@ -7,10 +7,10 @@ Le rapport complet est disponible ici : [Rapport.pdf](TP1_Michel.pdf)
 
 🛠️ Outils utilisés
 
-Python 3
-Pandas, NumPy
-Matplotlib, Seaborn
-Jupyter Notebook
+* Python 3
+* Pandas, NumPy
+* Matplotlib, Seaborn
+* Jupyter Notebook
 
 ---
 
