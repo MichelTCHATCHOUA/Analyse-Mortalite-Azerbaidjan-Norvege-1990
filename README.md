@@ -5,7 +5,7 @@ Ce projet de démographie présente une analyse descriptive et comparative des d
 Le rapport complet est disponible ici : [Rapport.pdf](TP1_Michel.pdf)
 
 
-🛠️ Outils utilisés
+## 🛠️ Outils utilisés
 
 * Python 3
 * Pandas, NumPy
