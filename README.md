@@ -15,7 +15,7 @@ L'analyse a suivi la démarche suivante pour comparer les deux pays :
 3.  **Standardisation Directe (TMS)** : Utilisation de populations de référence (Combinée, Monde, Europe) pour obtenir des taux standardisés.
 4.  **Standardisation Indirecte (RSM)** : Calcul des Ratios Standardisés de Mortalité.
 
-[Image du Diagramme du flux d'analyse](images/Diagramme.png.jpg)
+[Image du Diagramme du flux d'analyse](images/Diagramme.png)
 
 ---
 
@@ -28,7 +28,7 @@ L'analyse a suivi la démarche suivante pour comparer les deux pays :
 * [cite_start]L'**Azerbaïdjan** présente une mortalité plus élevée que la Norvège pour la majorité des groupes d'âge[cite: 133].
 * [cite_start]La Norvège ne dépasse l'Azerbaïdjan qu'aux âges très avancés (80 ans et plus)[cite: 134].
 
-[Image des Taux de Mortalité Spécifiques par Âge - Global (1990)](images/asmr_global.jpg)
+[Image des Taux de Mortalité Spécifiques par Âge - Global (1990)](images/asmr_global.png)
 
 ### 3. Taux Standardisés (TMS)
 * [cite_start]Une fois l'effet de la structure par âge éliminé, la mortalité est **significativement plus élevée en Azerbaïdjan** qu'en Norvège[cite: 154, 171].
@@ -39,7 +39,7 @@ L'analyse a suivi la démarche suivante pour comparer les deux pays :
 
 ## 💻 Code Source et Fichiers
 
-* **Code** : Le script Python/Jupyter Notebook utilisé pour le nettoyage des données, les calculs et la génération des graphiques se trouve dans [CodeSource.ipynb](CodeSource.ipynb).
+* **Code** : Le script Python/Jupyter Notebook utilisé pour le nettoyage des données, les calculs et la génération des graphiques se trouve dans [CodeSource.ipynb](TP1_Epidé.ipynb).
 * **Fichiers Sources** : Les données originales et les références de population sont dans le dossier `data/`.
 
 ---
