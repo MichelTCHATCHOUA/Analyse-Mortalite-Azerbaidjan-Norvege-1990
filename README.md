@@ -4,6 +4,29 @@ Ce projet de démographie présente une analyse descriptive et comparative des d
 
 Le rapport complet est disponible ici : [Rapport.pdf](TP1_Michel.pdf)
 
+---
+
+## 🎯 Objectif
+Comparer les profils de mortalité de l'Azerbaïdjan et de la Norvège en 1990 pour :
+
+* Identifier les différences de mortalité entre les deux pays
+* Éliminer l'effet de la structure par âge des populations
+* Appliquer des méthodes de standardisation directe et indirecte
+* Extraire des conclusions démographiques robustes et exploitables
+
+---
+
+## 📊 Données
+
+* Période : Année 1990
+* Pays analysés : Azerbaïdjan, Norvège
+* Variables :
+  * Effectifs de population par groupe d'âge
+  * Nombre de décès par groupe d'âge
+  * Taux de mortalité spécifiques
+* Populations de référence : Combinée (AZ+NO), Monde, Europe
+
+---
 
 ## 🛠️ Outils utilisés
 
