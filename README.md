@@ -4,6 +4,14 @@ Ce projet de démographie présente une analyse descriptive et comparative des d
 
 Le rapport complet est disponible ici : [Rapport.pdf](TP1_Michel.pdf)
 
+
+🛠️ Outils utilisés
+
+Python 3
+Pandas, NumPy
+Matplotlib, Seaborn
+Jupyter Notebook
+
 ---
 
 ## 🔬 Méthodologie d'Analyse
@@ -46,4 +54,4 @@ L'analyse a suivi la démarche suivante pour comparer les deux pays :
 
 ## 👤 Auteur
 
-Michel TCHATCHOUA (IADS-2) - [Lien vers votre profil GitHub](https://github.com/MichelTCHATCHOUA)
+Michel TCHATCHOUA - [Lien vers mon profil GitHub](https://github.com/MichelTCHATCHOUA)
